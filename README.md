@@ -47,23 +47,8 @@ Then restart Bot.
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[ToOfan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
+[
 # Special thanks to
 [rizaumami](https://github.com/rizaumami) ([Telegram](https://telegram.me/kuncen))
 
-[Vysheng](https://github.com/Vysheng) ([Telegram](https://telegram.me/Vysheng))
-
-[@MrHalix](https://telegram.me/MrHalix)
-
-# Support and development
-
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
-
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[Vysheng](https://github.com/Vysheng) ([Telegram](https://telegram.me/Vysheng
